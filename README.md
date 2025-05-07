@@ -1,84 +1,51 @@
+![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=10&color=000&center=true&vCenter=true&width=600&lines=I'm+Laura+Palagano+Web+Developer+%F0%9F%92%BB)
+
+---
+###  About Me
+
+- 🎓 Computer Science student at **PUC Minas**  
+- 💻 Graduated as a Technician in Informatics at **IFSULDEMINAS**  
+- 👩‍💻 Experience with **Java, JavaScript, PHP, C** and **MySQL**  
+- 🧠 Scholarship holder at **Oficinas 4.0** in AI & Data Analysis  
+- 🧪 Former intern at **IFSULDEMINAS**, developing lab administration tools  
+- 🌐 Web/Mobile development & Machine Learning intern at **Arcano - Technology Projects**  
+- 🚀 Intermediate knowledge in **Ruby on Rails, Docker, Slim HTML, VueJS, and CoffeeScript** (1.5+ years)
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="VueJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Rails" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-</div>
+### 🔍 Currently Exploring
 
-<h1 align="left">Hey 👋 What's up?</h1>
+- 🤖 Machine Learning with Python  
+- 📊 Data Analysis techniques  
+- 🧩 Clean architecture and scalable APIs  
 
-###
+---
 
-<p align="left">My name is Laura Palagano and I'm a Web Developer, from Brazil 🇧🇷</p>
+### 🔗 Let's Connect
 
-###
+- 💼 [LinkedIn](https://www.linkedin.com/in/laura-palagano)  
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 💬 Tech Keywords
 
-<p align="left">
-  🎓 Computer Science student at PUC Minas<br>
-  🎓 Graduated as a Technician in Informatics at IFSULDEMINAS<br>
-  💻 Experience in web programming with Java, JavaScript, PHP, and C<br>
-  🛢️ Practical knowledge in MySQL databases<br>
-  🧪 Intern at IF developing algorithms for lab administration<br>
-  🤖 Scholarship holder in Oficinas 4.0 (AI & Data Analysis)<br>
-  🌐 Intern at Arcano - Technology Projects (Web/Mobile & ML)<br>
-  🧩 Intermediate experience with Ruby on Rails, Docker, Slim HTML, VueJS, and CoffeeScript (1.5 years)<br>
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="VueJS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Rails logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-</div>
-
-###
-
-<h2 align="left">🔎 Currently exploring</h2>
-
-<p align="left">
-  🧠 Machine Learning<br>
-  📈 Data Analysis<br>
-  🔧 Improving back-end performance with Docker & PostgreSQL
-</p>
-
-###
-
-<h2 align="left">🚀 Tech keywords</h2>
-
-<p align="left">
-  Web Developer | Ruby on Rails | PostgreSQL | Docker | JavaScript | Wordpress | NodeJS | TypeScript | Vue.js | React
-</p>
+`Ruby on Rails` • `PostgreSQL` • `Docker` • `JavaScript` • `WordPress` • `Vue.js` • `Node.js` • `React` • `TypeScript`
