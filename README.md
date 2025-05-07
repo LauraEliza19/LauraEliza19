@@ -1,4 +1,4 @@
-![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=10&color=000&center=true&vCenter=true&width=600&lines=I'm+Laura+Palagano+Web+Developer+%F0%9F%92%BB)
+![Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=10&color=fff&center=true&vCenter=true&width=600&lines=I'm+Laura+Palagano+Web+Developer+%F0%9F%92%BB)
 
 ---
 ###  About Me
